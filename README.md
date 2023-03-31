@@ -1,5 +1,4 @@
-# ajeethj
-Hi wave, I'm Ajeeth J
+Hi 👋, I'm Ajeeth J
 
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently studying Mechatronics engineering
